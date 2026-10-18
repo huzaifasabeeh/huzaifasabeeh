@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Huzaifa bin Sabee 👋
+# Hey, I'm Huzaifa Bin Sabeeh 👋
 
 ### Software Engineering Student • Aspiring AI/ML Engineer • Full-Stack Developer
 
